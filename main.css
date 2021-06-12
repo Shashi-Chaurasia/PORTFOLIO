@@ -1,0 +1,85 @@
+
+.navigation-bar{
+    background-color: #1f2428;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.nav-link{
+    color: #ffff;
+}
+
+.hero{
+    background-color: #1f2428;
+    height: 80vh;
+    color: #ffff;
+}
+#profile-pic{
+    height: 200px;
+    font-weight: 200px;
+    object-fit: cover;
+
+}
+
+.hero--content{
+    width: 800px;
+    margin: 0 auto;
+    padding: 3em;
+
+}
+
+.hero--content--info{
+    display: flex;
+    color: #ffff;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+
+}
+.intro--info{
+    font-size: 72px; 
+    letter-spacing: .1em;
+    font-weight: 700;
+}
+
+.info--title{
+    justify-content: center ;
+    margin-left: 50px;
+}
+
+.title{
+font-size: 50px;
+}
+
+.descriptions{
+    font-size: 24px;
+
+}
+
+.container{
+    height: 70vh;
+    margin: 40px;
+
+
+}
+
+.container--content{
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+
+.container--android{
+    height: 328px;
+    width: 338px;
+}
+.container--django{
+    height: 328px;
+    width: 338px;
+}
+.container--python{
+    height: 328px;
+    width: 338px;
+}
